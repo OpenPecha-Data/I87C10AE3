@@ -1,0 +1,38 @@
+id: I87C10AE3
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:33:45.672020'
+last_modified: '2022-06-19T04:33:45.672032'
+parser: null
+source_metadata:
+  title: Hagiography of Jam dbyangs blo gter dbang po (1847–1914); Lamdre Lobshe,
+    vol. nya, title no. 2
+  author: mkhan chen bsam gtan blo gros/
+  description: 'Digital version 2.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-09); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/582
+  bases:
+    c22d:
+      title: Hagiography of Jam dbyangs blo gter dbang po (1847–1914); Lamdre Lobshe,
+        vol. nya, title no. 2
+      order: 1
+      base_file: c22d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
